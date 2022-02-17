@@ -1,7 +1,7 @@
-Projeto FrontEnd - Desafio TURIM
+# Projeto FrontEnd - Desafio TURIM
 Projeto desenvolvido em REACT para avaliação técnica
 
-Pré-requisitos
+## Pré-requisitos
 É necessário baixar o node_modules
 
 É necessário a instalação dos seguintes pacotes :
